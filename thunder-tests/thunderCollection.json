@@ -1,0 +1,39 @@
+[
+  {
+    "_id": "fb053cdc-2df4-45b4-85eb-9dac4fab9e4d",
+    "colName": "Task manager",
+    "created": "2022-08-08T12:25:24.683Z",
+    "sortNum": 10000,
+    "folders": [
+      {
+        "_id": "4feb6244-6c87-49f6-b7b5-794d89d5a978",
+        "name": "Users",
+        "containerId": "",
+        "created": "2022-08-08T12:53:07.077Z",
+        "sortNum": 10000
+      },
+      {
+        "_id": "716a43d5-b65e-4556-aec5-9a0ae1b5627b",
+        "name": "Tasks",
+        "containerId": "",
+        "created": "2022-08-08T12:57:25.934Z",
+        "sortNum": 20000
+      },
+      {
+        "_id": "fc312b07-d159-412d-a771-570fd66e5651",
+        "name": "Uploads",
+        "containerId": "",
+        "created": "2022-08-11T16:54:43.206Z",
+        "sortNum": 30000
+      }
+    ],
+    "settings": {
+      "headers": [],
+      "auth": {
+        "type": "bearer",
+        "bearer": "{{authToken}}"
+      },
+      "tests": []
+    }
+  }
+]

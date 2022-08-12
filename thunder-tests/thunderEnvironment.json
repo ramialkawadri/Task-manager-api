@@ -1,0 +1,33 @@
+[
+  {
+    "_id": "26bcb21c-38f3-406d-aa15-edf5ade7618c",
+    "name": "Task manager api (dev)",
+    "default": true,
+    "sortNum": 10000,
+    "created": "2022-08-10T11:46:11.610Z",
+    "modified": "2022-08-12T07:40:40.141Z",
+    "data": [
+      {
+        "name": "url",
+        "value": "http://localhost:8080"
+      },
+      {
+        "name": "variable",
+        "value": "{\"user\":{\"_id\":\"62f2bea7d08166254ef97f17\",\"name\":\"new name\",\"age\":0,\"email\":\"some@mail.com\",\"password\":\"$2a$08$vhNx82L379x3iUbxofLWfeHpnWmwXu6Q7qK148f5VDXTeht4MQhOm\",\"__v\":9,\"tokens\":[{\"token\":\"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MmYyYmVhN2QwODE2NjI1NGVmOTdmMTciLCJpYXQiOjE2NjAwODAyNjR9.yBhVFxF53Cf555bplVHjKkMr9Ek-1ubplyIEEeRt4Q0\",\"_id\":\"62f2d088b97815bed223f348\"},{\"token\":\"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MmYyYmVhN2QwODE2NjI1NGVmOTdmMTciLCJpYXQiOjE2NjAwODAyNzl9.rtCJmwU7Jw3F-VvApYq6_Yu-yTcpJjJdSSUTYc3YicE\",\"_id\":\"62f2d097b97815bed223f34b\"},{\"token\":\"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MmYyYmVhN2QwODE2NjI1NGVmOTdmMTciLCJpYXQiOjE2NjAxMjc5NjR9.Uq3UfUnS1NUPaWqOaRMqquZtdAn8FJV9I6SGsYF8sIY\",\"_id\":\"62f38adc3e583b8072b4eed0\"},{\"token\":\"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MmYyYmVhN2QwODE2NjI1NGVmOTdmMTciLCJpYXQiOjE2NjAxMjg4MjZ9.cZ3i4CuZuU0lF4A-1N1Eekh3Ek6DjxtkNXJxj2zj-9o\",\"_id\":\"62f38e3ae1ea0374c7ca35f8\"},{\"token\":\"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MmYyYmVhN2QwODE2NjI1NGVmOTdmMTciLCJpYXQiOjE2NjAxMjg4Mjd9.WR9-Er9JaSz4Ad67ItESYtKnP21umZG__uDFRx5D6gw\",\"_id\":\"62f38e3be1ea0374c7ca35fb\"},{\"token\":\"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MmYyYmVhN2QwODE2NjI1NGVmOTdmMTciLCJpYXQiOjE2NjAxMjg4Mjd9.WR9-Er9JaSz4Ad67ItESYtKnP21umZG__uDFRx5D6gw\",\"_id\":\"62f38e3be1ea0374c7ca35fe\"},{\"token\":\"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MmYyYmVhN2QwODE2NjI1NGVmOTdmMTciLCJpYXQiOjE2NjAxMjg4Mjd9.WR9-Er9JaSz4Ad67ItESYtKnP21umZG__uDFRx5D6gw\",\"_id\":\"62f38e3be1ea0374c7ca3601\"},{\"token\":\"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MmYyYmVhN2QwODE2NjI1NGVmOTdmMTciLCJpYXQiOjE2NjAxMjg4Mjd9.WR9-Er9JaSz4Ad67ItESYtKnP21umZG__uDFRx5D6gw\",\"_id\":\"62f38e3be1ea0374c7ca3604\"},{\"token\":\"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MmYyYmVhN2QwODE2NjI1NGVmOTdmMTciLCJpYXQiOjE2NjAxMzI2OTd9.Sf9INqw5Wj5BJDv3tpUvJSdGNkqHhzb755IbhMfmncw\",\"_id\":\"62f39d597ba79e0b4d699b40\"}]},\"token\":\"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MmYyYmVhN2QwODE2NjI1NGVmOTdmMTciLCJpYXQiOjE2NjAxMzI2OTd9.Sf9INqw5Wj5BJDv3tpUvJSdGNkqHhzb755IbhMfmncw\"}"
+      },
+      {
+        "name": "authToken",
+        "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MmY2MDNmNTI0ZWU1YTc3Nzk3ZTIwZjYiLCJpYXQiOjE2NjAyOTAwNDB9.KI6hD1e9gZtdqfZQ4ADpoyBN1V9xQsSohIFXsaVX_u8"
+      }
+    ]
+  },
+  {
+    "_id": "3578c512-9943-4e74-bd94-5cf13ec162b8",
+    "name": "Task manager api (prod)",
+    "default": false,
+    "sortNum": 20000,
+    "created": "2022-08-10T11:46:56.001Z",
+    "modified": "2022-08-10T11:46:56.001Z",
+    "data": []
+  }
+]
