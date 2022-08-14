@@ -84,25 +84,6 @@
     ]
   },
   {
-    "_id": "4296da16-d736-472d-a561-d051e34ef1e9",
-    "colId": "fb053cdc-2df4-45b4-85eb-9dac4fab9e4d",
-    "containerId": "4feb6244-6c87-49f6-b7b5-794d89d5a978",
-    "name": "Update user",
-    "url": "http://localhost:8080/users/62f110bb6650f0b7abbc96d9",
-    "method": "PATCH",
-    "sortNum": 40000,
-    "created": "2022-08-08T13:34:21.783Z",
-    "modified": "2022-08-08T13:40:53.632Z",
-    "headers": [],
-    "params": [],
-    "body": {
-      "type": "json",
-      "raw": "{\n  \"name\": \"name 2.0\",\n  \"password\": \"mypass22\"\n}",
-      "form": []
-    },
-    "tests": []
-  },
-  {
     "_id": "e93680db-bee2-48ea-9a77-1a6f40792e47",
     "colId": "fb053cdc-2df4-45b4-85eb-9dac4fab9e4d",
     "containerId": "716a43d5-b65e-4556-aec5-9a0ae1b5627b",
@@ -126,11 +107,11 @@
     "colId": "fb053cdc-2df4-45b4-85eb-9dac4fab9e4d",
     "containerId": "4feb6244-6c87-49f6-b7b5-794d89d5a978",
     "name": "Login user",
-    "url": "http://localhost:8080/users/login/",
+    "url": "{{url}}/users/login/",
     "method": "POST",
     "sortNum": 60000,
     "created": "2022-08-08T14:09:27.430Z",
-    "modified": "2022-08-12T07:40:19.634Z",
+    "modified": "2022-08-12T08:20:41.057Z",
     "headers": [],
     "params": [],
     "body": {

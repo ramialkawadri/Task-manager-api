@@ -2,10 +2,10 @@
   {
     "_id": "26bcb21c-38f3-406d-aa15-edf5ade7618c",
     "name": "Task manager api (dev)",
-    "default": true,
+    "default": false,
     "sortNum": 10000,
     "created": "2022-08-10T11:46:11.610Z",
-    "modified": "2022-08-12T07:40:40.141Z",
+    "modified": "2022-08-12T08:12:39.115Z",
     "data": [
       {
         "name": "url",
@@ -17,17 +17,26 @@
       },
       {
         "name": "authToken",
-        "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MmY2MDNmNTI0ZWU1YTc3Nzk3ZTIwZjYiLCJpYXQiOjE2NjAyOTAwNDB9.KI6hD1e9gZtdqfZQ4ADpoyBN1V9xQsSohIFXsaVX_u8"
+        "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MmY2MGI3N2IzYzk1YWJjYzYyNjI2ZTMiLCJpYXQiOjE2NjAyOTE5NTl9.8OQYdSOf_OJ4JOqU5VIiFedZAykHTHTbMWOZYl2O8hs"
       }
     ]
   },
   {
     "_id": "3578c512-9943-4e74-bd94-5cf13ec162b8",
     "name": "Task manager api (prod)",
-    "default": false,
+    "default": true,
     "sortNum": 20000,
     "created": "2022-08-10T11:46:56.001Z",
-    "modified": "2022-08-10T11:46:56.001Z",
-    "data": []
+    "modified": "2022-08-12T08:20:41.056Z",
+    "data": [
+      {
+        "name": "url",
+        "value": "https://rami-task-manager-api.herokuapp.com"
+      },
+      {
+        "name": "authToken",
+        "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MmY2MGI3N2IzYzk1YWJjYzYyNjI2ZTMiLCJpYXQiOjE2NjAyOTI0NDB9.JGpt5OmDyn877bdbknMxoGswJGhPwmCxkLxWWc8z2uM"
+      }
+    ]
   }
 ]
